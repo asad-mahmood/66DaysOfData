@@ -23,6 +23,7 @@ The data files have been uploaded in this folder.
 ## Description
 
 I am using pandasql for simulating SQL in the notebook and an html version of this is also uploaded to my repo so as to make it easy to view.
+
 ---
 
 Hope you enjoyed reading this and learned something new ! Feel free to provide any feedback and connect with me.
