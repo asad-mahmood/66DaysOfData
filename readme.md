@@ -1,8 +1,8 @@
 <img src="icon.png" align="right" />
 
-# 66 Days of Data [![#66DaysOfData]> A curated list of awesome READMEs
+# 66 Days of Data Challenge with Ken Jee
 
-Elements in beautiful READMEs include, but are not limited to: images, screenshots, GIFs, text formatting, etc.
+This repo includes projects 
 
 ## Examples
 
