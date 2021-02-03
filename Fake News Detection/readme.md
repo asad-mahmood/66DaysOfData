@@ -5,7 +5,7 @@ It is an example project of showing how effetive Passive Aggresive Classifier al
 
 ## Preview the project ?
 
-You can download 
+You can just download the html version of the project to preview the work which is also uploaded to the repo.
 
 ### How to run the project ?
 
