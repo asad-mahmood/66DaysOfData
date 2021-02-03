@@ -4,7 +4,7 @@
 
 This repo includes projects that I did during this challenge. 
 
-## Examples
+## brief Project Descriptions
 
 - [Translating SQL to Pandas](https://github.com/asad-mahmood/66DaysOfData/tree/main/SQL%20to%20Pandas) - A small project that I used to perpare for interviews where questions regarding translating SQL statements to pandas or vice versa were expected. It walks through how all the major keywords of SQL can be successfully translated to pandas statements.
 - [Data Preprocessing and ML Template](https://github.com/asad-mahmood/66DaysOfData/tree/main/Data%20Preprocessing%20and%20ML%20Template) - A preprocessing template that I use for every project classification/regression to start with. I am using lazy predict package to test out which algo is the best suited for the project.
