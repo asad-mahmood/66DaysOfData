@@ -1,6 +1,6 @@
 <img src="icon.png" align="right" />
 
-# 66 Days of Data Challenge with Ken Jee
+# 66 Days of Data Challenge
 
 This repo includes projects that I did during this challenge. 
 
