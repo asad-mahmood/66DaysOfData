@@ -1,9 +1,5 @@
 <img src="icon.png" align="right" />
 
-# 66 Days of Data Challenge
-
-This repo includes projects that I did during this challenge. 
-
 ## Brief Project Descriptions
 
 - [Translating SQL to Pandas](https://github.com/asad-mahmood/66DaysOfData/tree/main/SQL%20to%20Pandas) - A small project that I used to perpare for interviews where questions regarding translating SQL statements to pandas or vice versa were expected. It walks through how all the major keywords of SQL can be successfully translated to pandas statements.
