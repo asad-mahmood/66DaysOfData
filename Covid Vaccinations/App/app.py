@@ -4,13 +4,9 @@ import plotly.graph_objs as go
 import plotly.express as px
 import plotly.figure_factory as ff
 from plotly import tools
-from plotly.offline import download_plotlyjs, init_notebook_mode, plot, iplot
 import streamlit as st
 from pandas_profiling import ProfileReport
 from streamlit_pandas_profiling import st_profile_report
-import plotly.express as px
-import warnings
-warnings.filterwarnings("ignore")
 
 
 @st.cache
@@ -195,10 +191,9 @@ if tab == 'Overview of Project':
 elif tab == 'Dataset Report':
     st.header("**Exploratory Data Analysis**")
     pr = ProfileReport(df, minimal=True)
-    st.subheader('Input DataFrame')
+    st.header('Input DataFrame')
     st.write(df.head())
     st.write('---')
-    st.header('**Report**')
     st_profile_report(pr)
 
 elif tab == 'Dashboard':
